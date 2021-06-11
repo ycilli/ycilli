@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ycilli
 - 👀 I’m interested in Mobile Programming
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on simple project
+- 💞️ I’m looking to collaborate on simple projects
 - 📫 How to reach me ...
 
 <!---
